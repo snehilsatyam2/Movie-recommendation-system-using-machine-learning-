@@ -3,3 +3,5 @@ A movie recommendation system, or a movie recommender system, is an ML-based app
 
 This is a model where a subset of 45000+ data is used ( around 5000 ) and it is only for hollywood . 
 We can apply the same for bollywood as well . 
+
+** Run the ipynb file .( make sure to change the path where your dataset is present )  ** 
